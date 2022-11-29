@@ -1,4 +1,5 @@
 # Azure Container Apps: Dapr Albums Sample
+SCOTT
 
 This repository was created to help users quickly deploy Dapr-enabled microservices to Azure Container Apps.
 
